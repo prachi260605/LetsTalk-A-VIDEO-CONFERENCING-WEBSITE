@@ -6,5 +6,3 @@ Welcome to Let'sTalk, a real time messaging & video calling designed to provide 
 - **Screen Sharing**: Share your screen with participants to collaborate effectively.
 - **Chat Functionality**: Engage in real-time text chats during your calls.
 - **Secure and Private**: End-to-end encryption to ensure your meetings are secure.
-
-# Demo Video
